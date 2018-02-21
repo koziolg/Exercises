@@ -1,0 +1,2 @@
+# Exercises
+Just simple exercises.
