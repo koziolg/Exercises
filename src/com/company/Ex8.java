@@ -14,6 +14,21 @@ public class Ex8 {
             result = (B-(A-A%K))/K;
         }
 
+
+
+//        int a,b;
+//        if(A%K == 0){
+//            a = A/K;
+//        } else {
+//            a = A/K +1;
+//        }
+//        if (B%K == 0){
+//            b = B/K;
+//        } else {
+//            b = B/K + 1;
+//        }
+//        result = b - a;
+
         return result;
 
 
